@@ -41,7 +41,7 @@ Cannot deduce what the algorithm do from the cryptic name.
 
 ---
 
-## The Invisible Hand
+## The Overachiever
 
 <!---
 Does more than it promises
